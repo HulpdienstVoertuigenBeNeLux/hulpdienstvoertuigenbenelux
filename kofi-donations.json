@@ -4,20 +4,6 @@
     "description": "Maandelijks doel voor hosting, domein en onderhoud"
   },
   "donations": [
-    {
-      "id": "11418a9f-21e7-4330-9165-77f704fc994e",
-      "from_name": "HulpdienstvoertuigenBenelux",
-      "message": "Test",
-      "amount": 2,
-      "currency": "EUR",
-      "timestamp": "2026-07-11T17:09:01Z",
-      "type": "Donation",
-      "is_public": true,
-      "tier_name": null,
-      "is_subscription_payment": false,
-      "is_first_subscription_payment": false,
-      "verification_token": "c6db9e9a-3575-40e6-8b22-820c96a3bd19",
-      "received_at": "2026-07-11T17:09:02.224Z"
-    }
+   
   ]
 }
