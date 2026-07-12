@@ -10,14 +10,14 @@
       "message": "Thanks for the great work!",
       "amount": 20,
       "currency": "EUR",
-      "timestamp": "2026-07-12T17:33:44.562Z",
+      "timestamp": "2026-05-30T17:33:44.562Z",
       "type": "Donation",
       "is_public": true,
       "tier_name": null,
       "is_subscription_payment": false,
       "is_first_subscription_payment": false,
       "verification_token": null,
-      "received_at": "2026-07-12T17:33:44.562Z"
+      "received_at": "2026-05-30T17:33:44.562Z"
     }
   ],
   "_discordMsgs": {
