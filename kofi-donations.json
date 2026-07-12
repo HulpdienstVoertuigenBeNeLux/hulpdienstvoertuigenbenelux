@@ -259,5 +259,9 @@
       "verification_token": "c6db9e9a-3575-40e6-8b22-820c96a3bd19",
       "received_at": "2026-07-12T05:50:01.039Z"
     }
-  ]
+  ],
+  "_discordMsgs": {
+    "progressId": "1525752996917543064",
+    "donorId": "1525753000688095243"
+  }
 }
