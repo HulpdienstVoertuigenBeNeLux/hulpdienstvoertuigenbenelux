@@ -5,6 +5,21 @@
   },
   "donations": [
     {
+      "id": "23f3c2c1-1cc7-47bf-9ca8-63b38ade0e48",
+      "from_name": "xRaxyyy",
+      "message": "Top site! ",
+      "amount": 2,
+      "currency": "EUR",
+      "timestamp": "2026-07-12T17:43:57Z",
+      "type": "Donation",
+      "is_public": true,
+      "tier_name": null,
+      "is_subscription_payment": false,
+      "is_first_subscription_payment": false,
+      "verification_token": "c6db9e9a-3575-40e6-8b22-820c96a3bd19",
+      "received_at": "2026-07-12T17:43:59.139Z"
+    },
+    {
       "id": "manual_1783877624562_7v8xvu",
       "from_name": "JanSuerth",
       "message": "Thanks for the great work!",
