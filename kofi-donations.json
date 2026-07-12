@@ -1,7 +1,10 @@
 {
   "goal": {
-    "monthly": 5,
+    "monthly": 250,
     "description": "Maandelijks doel voor hosting, domein en onderhoud"
   },
-
+  "donations": [],
+  "_discordMsgs": {
+    "msgId": null
+  }
 }
