@@ -3,7 +3,23 @@
     "monthly": 5,
     "description": "Maandelijks doel voor hosting, domein en onderhoud"
   },
-  "donations": [],
+  "donations": [
+    {
+      "id": "manual_1783877624562_7v8xvu",
+      "from_name": "JanSuerth",
+      "message": "Thanks for the great work!",
+      "amount": 20,
+      "currency": "EUR",
+      "timestamp": "2026-07-12T17:33:44.562Z",
+      "type": "Donation",
+      "is_public": true,
+      "tier_name": null,
+      "is_subscription_payment": false,
+      "is_first_subscription_payment": false,
+      "verification_token": null,
+      "received_at": "2026-07-12T17:33:44.562Z"
+    }
+  ],
   "_discordMsgs": {
     "msgId": "1525765489786228759"
   }
