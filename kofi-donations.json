@@ -3,5 +3,21 @@
     "monthly": 5,
     "description": "Maandelijks doel voor hosting, domein en onderhoud"
   },
-  "donations": []
+  "donations": [
+    {
+      "id": "00000000-1111-2222-3333-444444444444",
+      "from_name": "Jo Example",
+      "message": "Good luck with the integration!",
+      "amount": 3,
+      "currency": "USD",
+      "timestamp": "2026-07-12T05:49:58Z",
+      "type": "Donation",
+      "is_public": true,
+      "tier_name": null,
+      "is_subscription_payment": false,
+      "is_first_subscription_payment": false,
+      "verification_token": "c6db9e9a-3575-40e6-8b22-820c96a3bd19",
+      "received_at": "2026-07-12T05:50:01.039Z"
+    }
+  ]
 }
