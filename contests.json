@@ -1,24 +1,11 @@
 {
   "activeContest": {
-    "id": "contest_1784029850994",
+    "id": "contest_1784101880008",
     "title": "Fotowedstrijd Geen Idee!",
     "endDate": null,
     "locked": false
   },
   "submissions": [
-    {
-      "id": "sub_1784028773222_9197",
-      "contestId": "contest_1784026868657",
-      "discordId": "1371070091550134293",
-      "username": "xraxyyy.",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/1371070091550134293/30275c43252596e2a6990996a5901fb9.png",
-      "imagePath": "events/sub_1784028773222_9197.webp",
-      "thumbnailPath": "events/sub_1784028773222_9197_thumb.webp",
-      "imageUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/hulpdienstvoertuigenbenelux/main/events/sub_1784028773222_9197.webp",
-      "thumbnailUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/hulpdienstvoertuigenbenelux/main/events/sub_1784028773222_9197_thumb.webp",
-      "submittedAt": "2026-07-14T11:32:59.133Z",
-      "status": "approved"
-    },
     {
       "id": "sub_1784038273460_2497",
       "contestId": "contest_1784029850994",
@@ -33,13 +20,11 @@
       "status": "approved"
     }
   ],
-  "pastContests": [
-    {
-      "contest": {
-        "id": "contest_1784026868657",
-        "title": "Fotowedstrijd Geen Idee!",
-        "endDate": null
-      }
+  "pastContest": {
+    "contest": {
+      "id": "contest_1784029850994",
+      "title": "Fotowedstrijd Geen Idee!",
+      "endDate": null
     }
-  ]
+  }
 }
