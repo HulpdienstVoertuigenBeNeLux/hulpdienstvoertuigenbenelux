@@ -18,6 +18,20 @@
       "thumbnailUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/hulpdienstvoertuigenbenelux/main/events/sub_1784038273460_2497_thumb.webp",
       "submittedAt": "2026-07-14T14:11:21.696Z",
       "status": "approved"
+    },
+    {
+      "id": "sub_1784105166360_2337",
+      "contestId": "contest_1784101880008",
+      "discordId": "1371070091550134293",
+      "username": "xraxyyy.",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/1371070091550134293/30275c43252596e2a6990996a5901fb9.png",
+      "imagePath": "events/sub_1784105166360_2337.webp",
+      "thumbnailPath": "events/sub_1784105166360_2337_thumb.webp",
+      "imageUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/hulpdienstvoertuigenbenelux/main/events/sub_1784105166360_2337.webp",
+      "thumbnailUrl": "https://raw.githubusercontent.com/HulpdienstVoertuigenBeNeLux/hulpdienstvoertuigenbenelux/main/events/sub_1784105166360_2337_thumb.webp",
+      "submittedAt": "2026-07-15T08:46:10.003Z",
+      "status": "pending",
+      "winner": null
     }
   ],
   "pastContest": {
